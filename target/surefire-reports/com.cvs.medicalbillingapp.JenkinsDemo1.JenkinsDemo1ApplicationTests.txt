@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cvs.medicalbillingapp.JenkinsDemo1.JenkinsDemo1ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.027 sec - in com.cvs.medicalbillingapp.JenkinsDemo1.JenkinsDemo1ApplicationTests
